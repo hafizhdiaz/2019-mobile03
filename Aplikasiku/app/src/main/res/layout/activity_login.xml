@@ -115,5 +115,6 @@
 		android:layout_marginTop="80dp"
 		app:layout_constraintEnd_toEndOf="parent"
 		app:layout_constraintStart_toStartOf="parent"
+		android:onClick="postLogin"
 		/>
 </androidx.constraintlayout.widget.ConstraintLayout>
